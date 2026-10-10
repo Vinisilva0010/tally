@@ -1,4 +1,5 @@
 .venv/
-data/raw/
+data/
 __pycache__/
 *.sqlite
+.pytest_cache/
