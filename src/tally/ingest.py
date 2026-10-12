@@ -64,6 +64,8 @@ SCALAR_COLUMNS: dict[str, str] = {
     "ARB / WA ID": "arb_wa_id",
     "PoA / Aggregate ID": "poa_id",
     "PoA / VPA Status": "poa_status",
+    "Registry Documents": "registry_documents",
+    "Project Website": "project_website",
 }
 
 # Plain integers (a year, not an amount).

@@ -54,6 +54,11 @@ CREATE TABLE IF NOT EXISTS project (
     arb_wa_id                 TEXT,
     poa_id                    TEXT,
     poa_status                TEXT,
+    -- Links back to the issuing registry's own record. A verification
+    -- tool must be able to point at its sources, so every finding can
+    -- carry the two registry pages a reader needs to check it.
+    registry_documents        TEXT,
+    project_website           TEXT,
     source_file_id            INTEGER NOT NULL REFERENCES source_file (id)
 );
 
