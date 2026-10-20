@@ -108,6 +108,61 @@ def find_collisions(conn: sqlite3.Connection) -> list[SerialCollision]:
     return found
 
 
+def merge_by_prefix(
+    collisions: list[SerialCollision],
+) -> list[SerialCollision]:
+    """One entry per serial prefix, covering the union of overlaps.
+
+    Overlaps are detected pairwise, so three ranges that overlap each
+    other produce three pairs describing one event. GS1083 shows it:
+    73918-78809, 73918-83917 and 78810-83917 are one 10,000-credit
+    overlap reported as two pairs of 4,892 and 5,108. Adding those pairs
+    happens to give the right total here, but with four overlapping
+    ranges it would not -- the same credits would be counted repeatedly.
+
+    Merging counts each credit number once, by taking the union of the
+    overlapping spans rather than summing pair widths.
+    """
+    by_prefix: dict[tuple[str, str, OverlapKind], list[SerialCollision]] = (
+        defaultdict(list)
+    )
+    for c in collisions:
+        by_prefix[(c.registry, c.serial_prefix, c.kind)].append(c)
+
+    merged: list[SerialCollision] = []
+    for (registry, prefix, kind), group in by_prefix.items():
+        spans = sorted(
+            (max(a.left[0], a.right[0]), min(a.left[1], a.right[1]))
+            for a in group
+        )
+        covered, current_start, current_end = 0, None, None
+        for start, end in spans:
+            if current_start is None:
+                current_start, current_end = start, end
+            elif start <= current_end + 1:
+                current_end = max(current_end, end)
+            else:
+                covered += current_end - current_start + 1
+                current_start, current_end = start, end
+        if current_start is not None:
+            covered += current_end - current_start + 1
+
+        first = group[0]
+        merged.append(
+            SerialCollision(
+                kind=kind,
+                registry=registry,
+                serial_prefix=prefix,
+                shared_credits=covered,
+                project_id=first.project_id,
+                vintage=first.vintage,
+                left=first.left,
+                right=group[-1].right,
+            )
+        )
+    return sorted(merged, key=lambda c: (-c.shared_credits, c.serial_prefix))
+
+
 def summarize(collisions: list[SerialCollision]) -> dict[str, dict[str, int]]:
     out: dict[str, dict[str, int]] = {
         k.value: {"pairs": 0, "credits": 0} for k in OverlapKind
