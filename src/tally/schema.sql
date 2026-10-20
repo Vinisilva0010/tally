@@ -81,3 +81,85 @@ CREATE TABLE IF NOT EXISTS credit_year (
 
 CREATE INDEX IF NOT EXISTS idx_credit_year_lookup
     ON credit_year (kind, year, credits_milli);
+
+-- Credit-level events read from the raw registry files. One row per
+-- issuance, retirement or cancellation, as each registry publishes it.
+--
+-- The aggregate database reports totals per vintage; these rows carry the
+-- serial ranges behind those totals, which is what allows a duplicate to
+-- be proven at the level of individual credits rather than inferred from
+-- matching yearly sums.
+--
+-- Retirement and cancellation are kept apart here, with the reason the
+-- registry declared. The aggregate file merges them into one column, and
+-- cancellation is exactly what a legitimate CER migration does to the
+-- source credits -- so merging them makes a migration indistinguishable
+-- from a buyer's claim.
+CREATE TABLE IF NOT EXISTS credit_event (
+    id             INTEGER PRIMARY KEY,
+    registry       TEXT    NOT NULL,
+    project_ref    TEXT    NOT NULL,  -- as printed by the registry
+    project_id     TEXT,              -- resolved to project.project_id
+    event_type     TEXT    NOT NULL,  -- issuance | retirement | cancellation
+    vintage        INTEGER,
+    quantity_milli INTEGER NOT NULL,
+    event_date     TEXT,
+    serial_raw     TEXT,
+    serial_prefix  TEXT,              -- range without the numeric span
+    serial_start   INTEGER,
+    serial_end     INTEGER,
+    holder         TEXT,              -- who claimed, as named by the registry
+    holder_country TEXT,
+    on_behalf_of   TEXT,
+    reason         TEXT,              -- declared retirement/cancellation reason
+    article6_label TEXT,
+    corresponding_adjustment TEXT,
+    project_country TEXT,
+    source_file_id INTEGER NOT NULL REFERENCES source_file (id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_event_project ON credit_event (project_id, event_type, vintage);
+CREATE INDEX IF NOT EXISTS idx_event_serial  ON credit_event (serial_prefix, serial_start, serial_end);
+CREATE INDEX IF NOT EXISTS idx_event_holder  ON credit_event (holder);
+CREATE INDEX IF NOT EXISTS idx_event_reason  ON credit_event (event_type, reason);
+
+-- Credit-level events read from the raw registry files. One row per
+-- issuance, retirement or cancellation, as each registry publishes it.
+--
+-- The aggregate database reports totals per vintage; these rows carry the
+-- serial ranges behind those totals, which is what allows a duplicate to
+-- be proven at the level of individual credits rather than inferred from
+-- matching yearly sums.
+--
+-- Retirement and cancellation are kept apart here, with the reason the
+-- registry declared. The aggregate file merges them into one column, and
+-- cancellation is exactly what a legitimate CER migration does to the
+-- source credits -- so merging them makes a migration indistinguishable
+-- from a buyer's claim.
+CREATE TABLE IF NOT EXISTS credit_event (
+    id             INTEGER PRIMARY KEY,
+    registry       TEXT    NOT NULL,
+    project_ref    TEXT    NOT NULL,  -- as printed by the registry
+    project_id     TEXT,              -- resolved to project.project_id
+    event_type     TEXT    NOT NULL,  -- issuance | retirement | cancellation
+    vintage        INTEGER,
+    quantity_milli INTEGER NOT NULL,
+    event_date     TEXT,
+    serial_raw     TEXT,
+    serial_prefix  TEXT,              -- range without the numeric span
+    serial_start   INTEGER,
+    serial_end     INTEGER,
+    holder         TEXT,              -- who claimed, as named by the registry
+    holder_country TEXT,
+    on_behalf_of   TEXT,
+    reason         TEXT,              -- declared retirement/cancellation reason
+    article6_label TEXT,
+    corresponding_adjustment TEXT,
+    project_country TEXT,
+    source_file_id INTEGER NOT NULL REFERENCES source_file (id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_event_project ON credit_event (project_id, event_type, vintage);
+CREATE INDEX IF NOT EXISTS idx_event_serial  ON credit_event (serial_prefix, serial_start, serial_end);
+CREATE INDEX IF NOT EXISTS idx_event_holder  ON credit_event (holder);
+CREATE INDEX IF NOT EXISTS idx_event_reason  ON credit_event (event_type, reason);
