@@ -1,5 +1,10 @@
 .venv/
-data/
+# Anchored to the repository root: this is the working
+# directory with the source workbooks and the SQLite
+# database. The site's exported JSON lives in
+# web/public/data/ and must be committed, since the
+# static build reads it at build time.
+/data/
 __pycache__/
 *.sqlite
 .pytest_cache/

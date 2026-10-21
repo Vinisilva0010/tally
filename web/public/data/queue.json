@@ -1,0 +1,139 @@
+[
+  {
+    "project_a": "GS7538",
+    "project_b": "VCS1931",
+    "name_a": "Energising India using Solar Energy",
+    "name_b": "Energising India using Solar Energy Projects",
+    "registry_a": "GOLD",
+    "registry_b": "VCS",
+    "country": "India",
+    "vintages": [
+      2019,
+      2020,
+      2021
+    ],
+    "credits": 1812874.0,
+    "name_cosine": 0.9573,
+    "developer_sim": 100.0
+  },
+  {
+    "project_a": "GS4426",
+    "project_b": "VCS1190",
+    "name_a": "Wind Energy Project in Gujarat",
+    "name_b": "Wind power project in Gujarat",
+    "registry_a": "GOLD",
+    "registry_b": "VCS",
+    "country": "India",
+    "vintages": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "credits": 351768.0,
+    "name_cosine": 0.8139,
+    "developer_sim": 51.42857142857143
+  },
+  {
+    "project_a": "GS1017",
+    "project_b": "VCS1231",
+    "name_a": "Mordogan Wind Farm Project Turkey",
+    "name_b": "Mordogan Wind Power Project, Turkey",
+    "registry_a": "GOLD",
+    "registry_b": "VCS",
+    "country": "T\u00fcrkiye",
+    "vintages": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "credits": 145461.0,
+    "name_cosine": 0.9155,
+    "developer_sim": 80.0
+  },
+  {
+    "project_a": "GS7628",
+    "project_b": "VCS2244",
+    "name_a": "Wind farm at Lalpur Gujarat",
+    "name_b": "Lalpur wind farm in Gujarat",
+    "registry_a": "GOLD",
+    "registry_b": "VCS",
+    "country": "India",
+    "vintages": [
+      2018,
+      2019
+    ],
+    "credits": 91977.0,
+    "name_cosine": 0.9702,
+    "developer_sim": 25.641025641025635
+  },
+  {
+    "project_a": "GS3906",
+    "project_b": "VCS3154",
+    "name_a": "Biogas project Uttarakhand India",
+    "name_b": "Household Biogas Project in Uttarakhand, India",
+    "registry_a": "GOLD",
+    "registry_b": "VCS",
+    "country": "India",
+    "vintages": [
+      2020,
+      2021,
+      2022
+    ],
+    "credits": 35488.0,
+    "name_cosine": 0.8122,
+    "developer_sim": 34.28571428571429
+  },
+  {
+    "project_a": "CAR509",
+    "project_b": "VCS1888",
+    "name_a": "Larimer County Landfill Gas Project",
+    "name_b": "Larimer County Landfill Gas Flaring Project",
+    "registry_a": "CAR",
+    "registry_b": "VCS",
+    "country": "United States",
+    "vintages": [
+      2019
+    ],
+    "credits": 2635.0,
+    "name_cosine": 0.8793,
+    "developer_sim": 35.71428571428571
+  },
+  {
+    "project_a": "GS6051",
+    "project_b": "VCS1879",
+    "name_a": "Adavikanda Kuruwita Division Mini Hydro Power Project",
+    "name_b": "Adavikanda, Kuruwita Division Mini Hydro Power Project - CER Conversion",
+    "registry_a": "GOLD",
+    "registry_b": "VCS",
+    "country": "Sri Lanka",
+    "vintages": [
+      2016
+    ],
+    "credits": 1228.0,
+    "name_cosine": 0.8603,
+    "developer_sim": -1.0
+  },
+  {
+    "project_a": "GS452",
+    "project_b": "VCS1703",
+    "name_a": "*Huadian Ningxia Ningdong Yangjiayao 45MW Wind-farm Project",
+    "name_b": "Huadian Ningxia Ningdong Yangjiayao 45MW Wind-farm Project - CER Conversion",
+    "registry_a": "GOLD",
+    "registry_b": "VCS",
+    "country": "China",
+    "vintages": [
+      2010
+    ],
+    "credits": 722.0,
+    "name_cosine": 0.8925,
+    "developer_sim": -1.0
+  }
+]

@@ -1,0 +1,4487 @@
+[
+  {
+    "index": 0,
+    "rule": "R1",
+    "severity": 1,
+    "subjects": [
+      "ACR0234",
+      "CAR1582"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [
+      2020
+    ],
+    "credits": 718.0,
+    "credits_milli": 718000,
+    "note": "Alliance Dairy",
+    "is_finding": true,
+    "leaf_fields": [
+      "R1",
+      1,
+      "ACR0234|CAR1582",
+      "ACR|CAR",
+      "United States",
+      "2020",
+      718000,
+      "Alliance Dairy"
+    ],
+    "leaf_hash": "f3bc12083452d6775f48581a5ada5616bc22a39497a6824d22e0ad4a81f64afd",
+    "proof": [
+      {
+        "sibling": "e3ba79fddb1f30c3f9445f1c01a4585930fc3856c502fa7d24a3257f34cc01bb",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "df3154d8e82eca1ea7138d84325544c8effd5d1e7b7fafbb3461e040c7ba4956",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "c50723266389c64354658b09beb886d16ab2ed13c92b76489f1e400d92a8a603",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "694841b05150ed81233ba215412dea2abb1717bc4fde79717e7a646e13ca7947",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "rule": "R1",
+    "severity": 3,
+    "subjects": [
+      "ACR0931",
+      "CAR2112"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [
+      2025
+    ],
+    "credits": 147508.0,
+    "credits_milli": 147508000,
+    "note": "Kielty Abandoned Mine Methane Recovery Project",
+    "is_finding": true,
+    "leaf_fields": [
+      "R1",
+      3,
+      "ACR0931|CAR2112",
+      "ACR|CAR",
+      "United States",
+      "2025",
+      147508000,
+      "Kielty Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "e3ba79fddb1f30c3f9445f1c01a4585930fc3856c502fa7d24a3257f34cc01bb",
+    "proof": [
+      {
+        "sibling": "f3bc12083452d6775f48581a5ada5616bc22a39497a6824d22e0ad4a81f64afd",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "df3154d8e82eca1ea7138d84325544c8effd5d1e7b7fafbb3461e040c7ba4956",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "c50723266389c64354658b09beb886d16ab2ed13c92b76489f1e400d92a8a603",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "694841b05150ed81233ba215412dea2abb1717bc4fde79717e7a646e13ca7947",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "rule": "R1",
+    "severity": 2,
+    "subjects": [
+      "CAR495",
+      "VCS80"
+    ],
+    "registries": [
+      "CAR",
+      "VCS"
+    ],
+    "country": "United States",
+    "vintages": [
+      2009
+    ],
+    "credits": 25180.0,
+    "credits_milli": 25180000,
+    "note": "Greenville County Landfill Gas Utilization Project",
+    "is_finding": true,
+    "leaf_fields": [
+      "R1",
+      2,
+      "CAR495|VCS80",
+      "CAR|VCS",
+      "United States",
+      "2009",
+      25180000,
+      "Greenville County Landfill Gas Utilization Project"
+    ],
+    "leaf_hash": "740a5d2a6b41e34fd186211875353556eca7e52fae539e7edff868d25215ea4d",
+    "proof": [
+      {
+        "sibling": "0acef327c6be5343996101d1b1506f81cc21324c38073d77c6ca199358ffa4cc",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "8abf3de68b016a50296211534f4bbca03e57a1c64689bbe8059bcae0d6a4f55a",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "c50723266389c64354658b09beb886d16ab2ed13c92b76489f1e400d92a8a603",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "694841b05150ed81233ba215412dea2abb1717bc4fde79717e7a646e13ca7947",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "rule": "R1",
+    "severity": 2,
+    "subjects": [
+      "GS1371",
+      "VCS783"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "Thailand",
+    "vintages": [
+      2014
+    ],
+    "credits": 10000.0,
+    "credits_milli": 10000000,
+    "note": "Bangkok Kamphaeng Saen East: Landfill Gas to Electricity Project",
+    "is_finding": true,
+    "leaf_fields": [
+      "R1",
+      2,
+      "GS1371|VCS783",
+      "GOLD|VCS",
+      "Thailand",
+      "2014",
+      10000000,
+      "Bangkok Kamphaeng Saen East: Landfill Gas to Electricity Project"
+    ],
+    "leaf_hash": "0acef327c6be5343996101d1b1506f81cc21324c38073d77c6ca199358ffa4cc",
+    "proof": [
+      {
+        "sibling": "740a5d2a6b41e34fd186211875353556eca7e52fae539e7edff868d25215ea4d",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "8abf3de68b016a50296211534f4bbca03e57a1c64689bbe8059bcae0d6a4f55a",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "c50723266389c64354658b09beb886d16ab2ed13c92b76489f1e400d92a8a603",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "694841b05150ed81233ba215412dea2abb1717bc4fde79717e7a646e13ca7947",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "rule": "R1",
+    "severity": 2,
+    "subjects": [
+      "GS1378",
+      "VCS1886"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "China",
+    "vintages": [
+      2014,
+      2016
+    ],
+    "credits": 30551.0,
+    "credits_milli": 30551000,
+    "note": "Nanyang Danjiang River Solar Cooker Project Phase I",
+    "is_finding": true,
+    "leaf_fields": [
+      "R1",
+      2,
+      "GS1378|VCS1886",
+      "GOLD|VCS",
+      "China",
+      "2014|2016",
+      30551000,
+      "Nanyang Danjiang River Solar Cooker Project Phase I"
+    ],
+    "leaf_hash": "3f77b28b5730fe0285e4469ed2c21ca5d6b4a304c4e820c72b444fd4b7a57f8c",
+    "proof": [
+      {
+        "sibling": "6433e269fda25bc50f8252761ac86f1a240ec1f30d94bb07e04d93c0393936d0",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "0fc2efea6e40cec2eeb99f8a3cc199493d476dab9a5ff5f458aaadf3b8c30241",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "32cca3cc00f613d999421cfd7f5b0ce37272fb8dd3c5240f02047d4aceafd9e2",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "694841b05150ed81233ba215412dea2abb1717bc4fde79717e7a646e13ca7947",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "rule": "R1",
+    "severity": 2,
+    "subjects": [
+      "GS1588",
+      "VCS1887"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "China",
+    "vintages": [
+      2014,
+      2016
+    ],
+    "credits": 36248.0,
+    "credits_milli": 36248000,
+    "note": "Nanyang Danjiang River Solar Cooker Project Phase II",
+    "is_finding": true,
+    "leaf_fields": [
+      "R1",
+      2,
+      "GS1588|VCS1887",
+      "GOLD|VCS",
+      "China",
+      "2014|2016",
+      36248000,
+      "Nanyang Danjiang River Solar Cooker Project Phase II"
+    ],
+    "leaf_hash": "6433e269fda25bc50f8252761ac86f1a240ec1f30d94bb07e04d93c0393936d0",
+    "proof": [
+      {
+        "sibling": "3f77b28b5730fe0285e4469ed2c21ca5d6b4a304c4e820c72b444fd4b7a57f8c",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "0fc2efea6e40cec2eeb99f8a3cc199493d476dab9a5ff5f458aaadf3b8c30241",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "32cca3cc00f613d999421cfd7f5b0ce37272fb8dd3c5240f02047d4aceafd9e2",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "694841b05150ed81233ba215412dea2abb1717bc4fde79717e7a646e13ca7947",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "rule": "R1",
+    "severity": 1,
+    "subjects": [
+      "GS23339",
+      "VCS3881"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "Togo",
+    "vintages": [
+      2024
+    ],
+    "credits": 1542.0,
+    "credits_milli": 1542000,
+    "note": "Empowering Communities Through Improved Cookstoves",
+    "is_finding": true,
+    "leaf_fields": [
+      "R1",
+      1,
+      "GS23339|VCS3881",
+      "GOLD|VCS",
+      "Togo",
+      "2024",
+      1542000,
+      "Empowering Communities Through Improved Cookstoves"
+    ],
+    "leaf_hash": "a80641f79a79ce806a8c6b27e2614edd93079b1dd8e64df83d9aa5756fee6ed2",
+    "proof": [
+      {
+        "sibling": "d1845fa3a9352442a408f5c716aafd9ea5c921ff5633eb8bc06d3f255c1fe757",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "f75ba4fec6d0731f933ddc5cefedb74d9f3d7c7ca04c0c3a4d0318c1506cc0fe",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "32cca3cc00f613d999421cfd7f5b0ce37272fb8dd3c5240f02047d4aceafd9e2",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "694841b05150ed81233ba215412dea2abb1717bc4fde79717e7a646e13ca7947",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "rule": "R1",
+    "severity": 1,
+    "subjects": [
+      "GS2405",
+      "VCS370"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [
+      2013,
+      2017
+    ],
+    "credits": 7619.0,
+    "credits_milli": 7619000,
+    "note": "GRID CONNECTED BUNDLED WIND POWER PROJECT IN GUJARAT MANAGED BY ENERCON (INDIA) LIMITED",
+    "is_finding": true,
+    "leaf_fields": [
+      "R1",
+      1,
+      "GS2405|VCS370",
+      "GOLD|VCS",
+      "India",
+      "2013|2017",
+      7619000,
+      "GRID CONNECTED BUNDLED WIND POWER PROJECT IN GUJARAT MANAGED BY ENERCON (INDIA) LIMITED"
+    ],
+    "leaf_hash": "d1845fa3a9352442a408f5c716aafd9ea5c921ff5633eb8bc06d3f255c1fe757",
+    "proof": [
+      {
+        "sibling": "a80641f79a79ce806a8c6b27e2614edd93079b1dd8e64df83d9aa5756fee6ed2",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "f75ba4fec6d0731f933ddc5cefedb74d9f3d7c7ca04c0c3a4d0318c1506cc0fe",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "32cca3cc00f613d999421cfd7f5b0ce37272fb8dd3c5240f02047d4aceafd9e2",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "694841b05150ed81233ba215412dea2abb1717bc4fde79717e7a646e13ca7947",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "rule": "R1",
+    "severity": 2,
+    "subjects": [
+      "GS3015",
+      "VCS900"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "Viet Nam",
+    "vintages": [
+      2014
+    ],
+    "credits": 53186.0,
+    "credits_milli": 53186000,
+    "note": "Za Hung Hydropower Project",
+    "is_finding": true,
+    "leaf_fields": [
+      "R1",
+      2,
+      "GS3015|VCS900",
+      "GOLD|VCS",
+      "Viet Nam",
+      "2014",
+      53186000,
+      "Za Hung Hydropower Project"
+    ],
+    "leaf_hash": "41e145727bdbe391d13e82307dcfe8c5d6f57b861a079653d4949fadc5627f35",
+    "proof": [
+      {
+        "sibling": "c3c632847f99c6d33fce94021cdbcadad27140d5c43129a0db740628fcc6a538",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "7ccd78a3d71dbaec05dcd0f306816f8b1fb76c7a428c758500fa62f432934ec2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "22a77558a4288ab16e0be324a50621793784f4a392d1387b146b49b93371245c",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "9c28c07ae29ce7a61f6b3bec64a7f54e662669aadf7ec7802e7722c00c8d4cc6",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "rule": "R1",
+    "severity": 1,
+    "subjects": [
+      "GS4532",
+      "VCS1693"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [
+      2015
+    ],
+    "credits": 8407.0,
+    "credits_milli": 8407000,
+    "note": "Wind Power Project in Maharashtra State India",
+    "is_finding": true,
+    "leaf_fields": [
+      "R1",
+      1,
+      "GS4532|VCS1693",
+      "GOLD|VCS",
+      "India",
+      "2015",
+      8407000,
+      "Wind Power Project in Maharashtra State India"
+    ],
+    "leaf_hash": "c3c632847f99c6d33fce94021cdbcadad27140d5c43129a0db740628fcc6a538",
+    "proof": [
+      {
+        "sibling": "41e145727bdbe391d13e82307dcfe8c5d6f57b861a079653d4949fadc5627f35",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "7ccd78a3d71dbaec05dcd0f306816f8b1fb76c7a428c758500fa62f432934ec2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "22a77558a4288ab16e0be324a50621793784f4a392d1387b146b49b93371245c",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "9c28c07ae29ce7a61f6b3bec64a7f54e662669aadf7ec7802e7722c00c8d4cc6",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "rule": "R1",
+    "severity": 1,
+    "subjects": [
+      "GS5064",
+      "VCS1692"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [
+      2017
+    ],
+    "credits": 8687.0,
+    "credits_milli": 8687000,
+    "note": "15 MW Wind Power Project by RSPL Ltd (EKIESL-CDM-May-16-04)",
+    "is_finding": true,
+    "leaf_fields": [
+      "R1",
+      1,
+      "GS5064|VCS1692",
+      "GOLD|VCS",
+      "India",
+      "2017",
+      8687000,
+      "15 MW Wind Power Project by RSPL Ltd (EKIESL-CDM-May-16-04)"
+    ],
+    "leaf_hash": "c28e744264e73c17fd0a89a04a47921b6460c156e0ebceda3410c924a3785a45",
+    "proof": [
+      {
+        "sibling": "51f5efba08d62b969a739126d71fdf003f5c881a0a2e422df414e6659351ae86",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "32d3838b9d45b6e37dd89e3702c2064bb4f660682fb0861ec6532c2d404b64e9",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "22a77558a4288ab16e0be324a50621793784f4a392d1387b146b49b93371245c",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "9c28c07ae29ce7a61f6b3bec64a7f54e662669aadf7ec7802e7722c00c8d4cc6",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "rule": "R1",
+    "severity": 1,
+    "subjects": [
+      "GS7615",
+      "VCS1781"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [
+      2019
+    ],
+    "credits": 3028.0,
+    "credits_milli": 3028000,
+    "note": "MRMPL Wind Power Project.",
+    "is_finding": true,
+    "leaf_fields": [
+      "R1",
+      1,
+      "GS7615|VCS1781",
+      "GOLD|VCS",
+      "India",
+      "2019",
+      3028000,
+      "MRMPL Wind Power Project."
+    ],
+    "leaf_hash": "51f5efba08d62b969a739126d71fdf003f5c881a0a2e422df414e6659351ae86",
+    "proof": [
+      {
+        "sibling": "c28e744264e73c17fd0a89a04a47921b6460c156e0ebceda3410c924a3785a45",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "32d3838b9d45b6e37dd89e3702c2064bb4f660682fb0861ec6532c2d404b64e9",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "22a77558a4288ab16e0be324a50621793784f4a392d1387b146b49b93371245c",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "9c28c07ae29ce7a61f6b3bec64a7f54e662669aadf7ec7802e7722c00c8d4cc6",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "rule": "R1",
+    "severity": 2,
+    "subjects": [
+      "GS7754",
+      "VCS924"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [
+      2018
+    ],
+    "credits": 19229.0,
+    "credits_milli": 19229000,
+    "note": "Tuppadahalli Wind Energy Project",
+    "is_finding": true,
+    "leaf_fields": [
+      "R1",
+      2,
+      "GS7754|VCS924",
+      "GOLD|VCS",
+      "India",
+      "2018",
+      19229000,
+      "Tuppadahalli Wind Energy Project"
+    ],
+    "leaf_hash": "99d7c98f1bea76b6cb6e745bf45c9a23df53fafa1729f638c44160fe60e82642",
+    "proof": [
+      {
+        "sibling": "557e7a9a33a79b2fc671a0fa1c9e55b43fceb3c81b896f13566651ad63fe5aae",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "c3f44598f3128e25b8eb41ce84c0063e5118964e9bff64aff50418c7c40d422c",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "48bdf60727dc729c0b1cfe98110f2b041dacf12bad38dd906aa74aa6bc3135cb",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "9c28c07ae29ce7a61f6b3bec64a7f54e662669aadf7ec7802e7722c00c8d4cc6",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0232",
+      "CAR402"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "The Dry Creek Dairy Biofactory Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0232|CAR402",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "The Dry Creek Dairy Biofactory Project"
+    ],
+    "leaf_hash": "557e7a9a33a79b2fc671a0fa1c9e55b43fceb3c81b896f13566651ad63fe5aae",
+    "proof": [
+      {
+        "sibling": "99d7c98f1bea76b6cb6e745bf45c9a23df53fafa1729f638c44160fe60e82642",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "c3f44598f3128e25b8eb41ce84c0063e5118964e9bff64aff50418c7c40d422c",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "48bdf60727dc729c0b1cfe98110f2b041dacf12bad38dd906aa74aa6bc3135cb",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "9c28c07ae29ce7a61f6b3bec64a7f54e662669aadf7ec7802e7722c00c8d4cc6",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0233",
+      "CAR956"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Double A Dairy",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0233|CAR956",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Double A Dairy"
+    ],
+    "leaf_hash": "44a6b402183bdb26d7b461350c85b5ccb33172eca832f2725fa4d7fe0bd74d97",
+    "proof": [
+      {
+        "sibling": "bc2ca6662e9e2158f202664ffb8289292d6340e4101afde2a5820b3b59aa893b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "47335423b88028e255d66dfc1ef54471a87ea96ed9a505b8754149cc1d78f342",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "48bdf60727dc729c0b1cfe98110f2b041dacf12bad38dd906aa74aa6bc3135cb",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "9c28c07ae29ce7a61f6b3bec64a7f54e662669aadf7ec7802e7722c00c8d4cc6",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0235",
+      "CAR957"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Synergy Biogas, LLC",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0235|CAR957",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Synergy Biogas, LLC"
+    ],
+    "leaf_hash": "bc2ca6662e9e2158f202664ffb8289292d6340e4101afde2a5820b3b59aa893b",
+    "proof": [
+      {
+        "sibling": "44a6b402183bdb26d7b461350c85b5ccb33172eca832f2725fa4d7fe0bd74d97",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "47335423b88028e255d66dfc1ef54471a87ea96ed9a505b8754149cc1d78f342",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "48bdf60727dc729c0b1cfe98110f2b041dacf12bad38dd906aa74aa6bc3135cb",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "9c28c07ae29ce7a61f6b3bec64a7f54e662669aadf7ec7802e7722c00c8d4cc6",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "d25b8bae22925940ce9bdfeed041c5df71c7977cb2093e1288378808ee7e30d9",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0236",
+      "CAR412"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Green Meadow Farm",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0236|CAR412",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Green Meadow Farm"
+    ],
+    "leaf_hash": "54ad95f38382194c6ac9f27b8e2bf61ce1f454ea5c880016da73f3dc9d296e07",
+    "proof": [
+      {
+        "sibling": "9d276f6811e1186c28754900d67bc479bb572cb41ef30259c218a3472f6378fa",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "93d83e517aa3a80120bdaaad8936b6cf996b5f6813ab483a90bb416c044a6689",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "5514d6edc419a8155b03bf874d547090f20dd7aca624f0212204ee6e615c1445",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "e83e46c80d6e28f624e48ed55b764817800fe65087da9a67754d615e00dad71b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0238",
+      "CAR977"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Willet Dairy",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0238|CAR977",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Willet Dairy"
+    ],
+    "leaf_hash": "9d276f6811e1186c28754900d67bc479bb572cb41ef30259c218a3472f6378fa",
+    "proof": [
+      {
+        "sibling": "54ad95f38382194c6ac9f27b8e2bf61ce1f454ea5c880016da73f3dc9d296e07",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "93d83e517aa3a80120bdaaad8936b6cf996b5f6813ab483a90bb416c044a6689",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "5514d6edc419a8155b03bf874d547090f20dd7aca624f0212204ee6e615c1445",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "e83e46c80d6e28f624e48ed55b764817800fe65087da9a67754d615e00dad71b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0239",
+      "CAR980"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Edaleen Cow Power, LLC",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0239|CAR980",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Edaleen Cow Power, LLC"
+    ],
+    "leaf_hash": "b0efbb44241a8110002c25f60e97d65a061f7ac86f8318a83c1cb09fb0cc0781",
+    "proof": [
+      {
+        "sibling": "839d2e18abd2742b9eaaaf130fca6e16ba3f134ccb7483a9ed7da8556f3b077a",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "14fd43e5935c043f2f186ab4672f115b281b9d4e5d82259f6b7b01fcff96a3e5",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "5514d6edc419a8155b03bf874d547090f20dd7aca624f0212204ee6e615c1445",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "e83e46c80d6e28f624e48ed55b764817800fe65087da9a67754d615e00dad71b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0241",
+      "CAR978"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Gardeau Crest Dairy",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0241|CAR978",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Gardeau Crest Dairy"
+    ],
+    "leaf_hash": "839d2e18abd2742b9eaaaf130fca6e16ba3f134ccb7483a9ed7da8556f3b077a",
+    "proof": [
+      {
+        "sibling": "b0efbb44241a8110002c25f60e97d65a061f7ac86f8318a83c1cb09fb0cc0781",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "14fd43e5935c043f2f186ab4672f115b281b9d4e5d82259f6b7b01fcff96a3e5",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "5514d6edc419a8155b03bf874d547090f20dd7aca624f0212204ee6e615c1445",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "e83e46c80d6e28f624e48ed55b764817800fe65087da9a67754d615e00dad71b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0242",
+      "VCS559"
+    ],
+    "registries": [
+      "ACR",
+      "VCS"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Cambria 33 Abandoned Mine Methane Capture and Use Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0242|VCS559",
+      "ACR|VCS",
+      "United States",
+      "",
+      0,
+      "Cambria 33 Abandoned Mine Methane Capture and Use Project"
+    ],
+    "leaf_hash": "56dffd9ca3f2392b67d9f0c0468ab88f83d76f4ef7375f384a3bb0bca56a159e",
+    "proof": [
+      {
+        "sibling": "3fcc9b53613ef033b0c262f8cf9fafa82f0d92d2eb3561dc55e21ed72b9460aa",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "5315f9d270f04d830220d0d4b87acf6db37b7f6b1e4d6284d33b6f359f1be95b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "24b288d41ce3a52c038906448503d1931ff955918e9b03d6ad7b43dae70bb518",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "e83e46c80d6e28f624e48ed55b764817800fe65087da9a67754d615e00dad71b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0243",
+      "CAR891"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Elk Creek Coal Mine Methane Destruction & Utilization Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0243|CAR891",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Elk Creek Coal Mine Methane Destruction & Utilization Project"
+    ],
+    "leaf_hash": "3fcc9b53613ef033b0c262f8cf9fafa82f0d92d2eb3561dc55e21ed72b9460aa",
+    "proof": [
+      {
+        "sibling": "56dffd9ca3f2392b67d9f0c0468ab88f83d76f4ef7375f384a3bb0bca56a159e",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "5315f9d270f04d830220d0d4b87acf6db37b7f6b1e4d6284d33b6f359f1be95b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "24b288d41ce3a52c038906448503d1931ff955918e9b03d6ad7b43dae70bb518",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "e83e46c80d6e28f624e48ed55b764817800fe65087da9a67754d615e00dad71b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 22,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0388",
+      "VCS573",
+      "VCSOPR2"
+    ],
+    "registries": [
+      "ACR",
+      "VCS"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Corinth Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0388|VCS573|VCSOPR2",
+      "ACR|VCS",
+      "United States",
+      "",
+      0,
+      "Corinth Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "d09d8a96b5902239b524bc33aaf82899fd39148eef9d27a7ae1899e02b96bea5",
+    "proof": [
+      {
+        "sibling": "0158d1ce0618dfd356c90cd2590f4a8fa17ffc61c2db2a9e6f250e738279b592",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "289bb0f25003a908d21d781fe382ad9b0673f3672b1ce11fbe5a6d6698a5d474",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "24b288d41ce3a52c038906448503d1931ff955918e9b03d6ad7b43dae70bb518",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "e83e46c80d6e28f624e48ed55b764817800fe65087da9a67754d615e00dad71b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 23,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0537",
+      "CAR2114"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Wabash Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0537|CAR2114",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Wabash Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "0158d1ce0618dfd356c90cd2590f4a8fa17ffc61c2db2a9e6f250e738279b592",
+    "proof": [
+      {
+        "sibling": "d09d8a96b5902239b524bc33aaf82899fd39148eef9d27a7ae1899e02b96bea5",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "289bb0f25003a908d21d781fe382ad9b0673f3672b1ce11fbe5a6d6698a5d474",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "24b288d41ce3a52c038906448503d1931ff955918e9b03d6ad7b43dae70bb518",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "e83e46c80d6e28f624e48ed55b764817800fe65087da9a67754d615e00dad71b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 24,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0542",
+      "CAR2090"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Orient 6 Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0542|CAR2090",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Orient 6 Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "e933ad3b89163338db95309ba6e3ec73413e79388b87c4e0dbd3f31ee69658e9",
+    "proof": [
+      {
+        "sibling": "3843c48e65111e152faf6a698dda6dd7c94f1044421c87d6dc65fc70f127bb1d",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "11a5a01328341aa1b51924396818eb4e5d6a9d78d238492a3b4fc9400ac04f06",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "63fba172fcb69e5e3c63363324ff87ed15202298233f00a241c325108d2ddc88",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "8a3581a4fff0ca3b7a3384bc9ee53167f406eb4a9d137a5479a5b29f4649dd63",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 25,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0546",
+      "CAR2089"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Middle Fork Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0546|CAR2089",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Middle Fork Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "3843c48e65111e152faf6a698dda6dd7c94f1044421c87d6dc65fc70f127bb1d",
+    "proof": [
+      {
+        "sibling": "e933ad3b89163338db95309ba6e3ec73413e79388b87c4e0dbd3f31ee69658e9",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "11a5a01328341aa1b51924396818eb4e5d6a9d78d238492a3b4fc9400ac04f06",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "63fba172fcb69e5e3c63363324ff87ed15202298233f00a241c325108d2ddc88",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "8a3581a4fff0ca3b7a3384bc9ee53167f406eb4a9d137a5479a5b29f4649dd63",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 26,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0560",
+      "CAR2054"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Mine 84 Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0560|CAR2054",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Mine 84 Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "8e63c2055d88dbb353c640912cf90cc98a4bebf75046385318d7d35ca6ef7ce4",
+    "proof": [
+      {
+        "sibling": "a80c99ab4d4266061039721dd2113076bae5729148067c3aac0b782d3a8501e4",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "f5e542f8d3797347487677e25d814d4687688364d46f3dad0095216cbd45ca7b",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "63fba172fcb69e5e3c63363324ff87ed15202298233f00a241c325108d2ddc88",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "8a3581a4fff0ca3b7a3384bc9ee53167f406eb4a9d137a5479a5b29f4649dd63",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 27,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0572",
+      "CAR2253"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Pattiki 2 Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0572|CAR2253",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Pattiki 2 Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "a80c99ab4d4266061039721dd2113076bae5729148067c3aac0b782d3a8501e4",
+    "proof": [
+      {
+        "sibling": "8e63c2055d88dbb353c640912cf90cc98a4bebf75046385318d7d35ca6ef7ce4",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "f5e542f8d3797347487677e25d814d4687688364d46f3dad0095216cbd45ca7b",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "63fba172fcb69e5e3c63363324ff87ed15202298233f00a241c325108d2ddc88",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "8a3581a4fff0ca3b7a3384bc9ee53167f406eb4a9d137a5479a5b29f4649dd63",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0578",
+      "CAR2092"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "New Era Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0578|CAR2092",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "New Era Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "8cc7ad4ea1951da0a7f8ed674a490ec0c11485abba758725d37babca8afdfb2b",
+    "proof": [
+      {
+        "sibling": "d3261899bf08feb140d98302501ecbf0dde7318e95efc4760ad6c9c88a04253d",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "0f6afe667e8ceaac58b29c73e1d1e4c919e793b2bd8e185fd1e60c870e96c253",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "e4e58378703b35b6ed6c21171f7f8fd4a0d6127e8e8b158843b5e1f8cb14d649",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "8a3581a4fff0ca3b7a3384bc9ee53167f406eb4a9d137a5479a5b29f4649dd63",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 29,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0607",
+      "CAR2255"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Deep Mine 26 Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0607|CAR2255",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Deep Mine 26 Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "d3261899bf08feb140d98302501ecbf0dde7318e95efc4760ad6c9c88a04253d",
+    "proof": [
+      {
+        "sibling": "8cc7ad4ea1951da0a7f8ed674a490ec0c11485abba758725d37babca8afdfb2b",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "0f6afe667e8ceaac58b29c73e1d1e4c919e793b2bd8e185fd1e60c870e96c253",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "e4e58378703b35b6ed6c21171f7f8fd4a0d6127e8e8b158843b5e1f8cb14d649",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "8a3581a4fff0ca3b7a3384bc9ee53167f406eb4a9d137a5479a5b29f4649dd63",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 30,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0669",
+      "CAR2113"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "New Future Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0669|CAR2113",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "New Future Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "73fc73dab2d6dbcac86b1e9e69dfb2fccd709fe8f94fdfa07927d3c413152e5f",
+    "proof": [
+      {
+        "sibling": "3ad550ae52815fdf6acaac3cba44f8aaeefb66447aca95d5097ca31321040636",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "28c3be237687c2fdc1ae4907cee9d264c2273b2413b11f0db693528f5e239d1c",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "e4e58378703b35b6ed6c21171f7f8fd4a0d6127e8e8b158843b5e1f8cb14d649",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "8a3581a4fff0ca3b7a3384bc9ee53167f406eb4a9d137a5479a5b29f4649dd63",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 31,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0674",
+      "CAR2135"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Affinity Mine Methane Incineration Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0674|CAR2135",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Affinity Mine Methane Incineration Project"
+    ],
+    "leaf_hash": "3ad550ae52815fdf6acaac3cba44f8aaeefb66447aca95d5097ca31321040636",
+    "proof": [
+      {
+        "sibling": "73fc73dab2d6dbcac86b1e9e69dfb2fccd709fe8f94fdfa07927d3c413152e5f",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "28c3be237687c2fdc1ae4907cee9d264c2273b2413b11f0db693528f5e239d1c",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "e4e58378703b35b6ed6c21171f7f8fd4a0d6127e8e8b158843b5e1f8cb14d649",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "8a3581a4fff0ca3b7a3384bc9ee53167f406eb4a9d137a5479a5b29f4649dd63",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "751080f64b6e058d72c71d9a55f44a4e648622bea75b9697bb54e5a481e6e970",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "843b42841b2586252102ffaab4e71bcbb997b021c55383bbd860ddc44131d2c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 32,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0675",
+      "CAR2171"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Heilwood Mine Methane Incineration Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0675|CAR2171",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Heilwood Mine Methane Incineration Project"
+    ],
+    "leaf_hash": "957739d6d4717f63bd84c28c92a92c2cc2ac9bf84f44aaa5b27f913156635ced",
+    "proof": [
+      {
+        "sibling": "3b01b0b17bfcd6fa993e1e71475e625e8ab45cb7f3f7103bf0efa7143fa69b02",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "3f748cc2067acfc322983f6d3a0a527b0a3288324ae53322073d89fe91f885bd",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "0730110bdf99ce18d637d29ae753a7bb110c0fd5b011b49a5548d7a843fc0439",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "4d82ef1a0dbbb2938af7e8617286c35be7fdef897546b7b6d6c06e320b6be4ac",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 33,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0694",
+      "CAR2218"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Oaktown Fuel 1 Mine Methane Incineration Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0694|CAR2218",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Oaktown Fuel 1 Mine Methane Incineration Project"
+    ],
+    "leaf_hash": "3b01b0b17bfcd6fa993e1e71475e625e8ab45cb7f3f7103bf0efa7143fa69b02",
+    "proof": [
+      {
+        "sibling": "957739d6d4717f63bd84c28c92a92c2cc2ac9bf84f44aaa5b27f913156635ced",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "3f748cc2067acfc322983f6d3a0a527b0a3288324ae53322073d89fe91f885bd",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "0730110bdf99ce18d637d29ae753a7bb110c0fd5b011b49a5548d7a843fc0439",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "4d82ef1a0dbbb2938af7e8617286c35be7fdef897546b7b6d6c06e320b6be4ac",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 34,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0743",
+      "CAR2055"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Urling Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0743|CAR2055",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Urling Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "893250479924ef6d44d58787219210c8b46e040fae421f32b7a21612ebbc9c56",
+    "proof": [
+      {
+        "sibling": "eb02b13489def131f8788481eb1c3f79a91ef16b57a19e558308653d98bb5a93",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "435d37efc2db1342cb595d58fc405e3c962d04f8648db6345a3cd85e7fcf1a39",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "0730110bdf99ce18d637d29ae753a7bb110c0fd5b011b49a5548d7a843fc0439",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "4d82ef1a0dbbb2938af7e8617286c35be7fdef897546b7b6d6c06e320b6be4ac",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 35,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0746",
+      "CAR2057"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Beckley Pocahontas Mine Methane Incineration Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0746|CAR2057",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Beckley Pocahontas Mine Methane Incineration Project"
+    ],
+    "leaf_hash": "eb02b13489def131f8788481eb1c3f79a91ef16b57a19e558308653d98bb5a93",
+    "proof": [
+      {
+        "sibling": "893250479924ef6d44d58787219210c8b46e040fae421f32b7a21612ebbc9c56",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "435d37efc2db1342cb595d58fc405e3c962d04f8648db6345a3cd85e7fcf1a39",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "0730110bdf99ce18d637d29ae753a7bb110c0fd5b011b49a5548d7a843fc0439",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "4d82ef1a0dbbb2938af7e8617286c35be7fdef897546b7b6d6c06e320b6be4ac",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 36,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0761",
+      "CAR2091"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Federal 2 Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0761|CAR2091",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Federal 2 Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "8f37fdadaf12335ca81ec11774ebafb443bb47b21f26b3f3b33a2d8b3ac17749",
+    "proof": [
+      {
+        "sibling": "72dfb6ec6ca455f40e3eb9e2562fb8d81eb90c95a58cc691977c1caecb8f1807",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "6a7e12f80e6bbf55954d3b8c802b39c2cb8ef05d7c97f593a2389e12a46679ba",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "0b1008f028eb0fde1f99d488e89f177c42e2f4e804af1d9d72c2daa4c5bb183e",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "4d82ef1a0dbbb2938af7e8617286c35be7fdef897546b7b6d6c06e320b6be4ac",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 37,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0771",
+      "CAR2088"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Lowry Mine Methane Incineration Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0771|CAR2088",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Lowry Mine Methane Incineration Project"
+    ],
+    "leaf_hash": "72dfb6ec6ca455f40e3eb9e2562fb8d81eb90c95a58cc691977c1caecb8f1807",
+    "proof": [
+      {
+        "sibling": "8f37fdadaf12335ca81ec11774ebafb443bb47b21f26b3f3b33a2d8b3ac17749",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "6a7e12f80e6bbf55954d3b8c802b39c2cb8ef05d7c97f593a2389e12a46679ba",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "0b1008f028eb0fde1f99d488e89f177c42e2f4e804af1d9d72c2daa4c5bb183e",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "4d82ef1a0dbbb2938af7e8617286c35be7fdef897546b7b6d6c06e320b6be4ac",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 38,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0806",
+      "CAR2167"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Bonny Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0806|CAR2167",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Bonny Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "81ce171f050943a0168d8e623bdf2637065de989d3ca0771f5b5c030437d7f91",
+    "proof": [
+      {
+        "sibling": "7db9f3d7c0055ff6f12d492d521ece01ee3bb8ca2c0f847e6348bcc38e9140af",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "4cfafc196b3881d1cff9877578a6eb5689bd8548a0b6a3f1ceea9df0c8b40551",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "0b1008f028eb0fde1f99d488e89f177c42e2f4e804af1d9d72c2daa4c5bb183e",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "4d82ef1a0dbbb2938af7e8617286c35be7fdef897546b7b6d6c06e320b6be4ac",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 39,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0807",
+      "CAR2058"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Shoal Creek Mine Methane Incineration Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0807|CAR2058",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Shoal Creek Mine Methane Incineration Project"
+    ],
+    "leaf_hash": "7db9f3d7c0055ff6f12d492d521ece01ee3bb8ca2c0f847e6348bcc38e9140af",
+    "proof": [
+      {
+        "sibling": "81ce171f050943a0168d8e623bdf2637065de989d3ca0771f5b5c030437d7f91",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "4cfafc196b3881d1cff9877578a6eb5689bd8548a0b6a3f1ceea9df0c8b40551",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "0b1008f028eb0fde1f99d488e89f177c42e2f4e804af1d9d72c2daa4c5bb183e",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "4d82ef1a0dbbb2938af7e8617286c35be7fdef897546b7b6d6c06e320b6be4ac",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 40,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0808",
+      "CAR2217"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Rend Lake Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0808|CAR2217",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Rend Lake Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "8cada4e55aac4957828f5bde165b568ba6f42cb3fd2a7ee97bb2aa6ab1c5cc96",
+    "proof": [
+      {
+        "sibling": "03ebd629ddf9372845874ac8fa401413169c82fdc54e5754cba9f48df468a6a8",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "36a9781d28abb88c61fd0f4117953ba2504d28c9480db7553a115544e0ef5926",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "717446d422b57340844c8ab62e430b1dd328801c2438792c0b8493f86ab23482",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "26d575cd26603bb243a393b4001b1f92ad40be432a93cd24c7001c631f1e2abf",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 41,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR0841",
+      "CAR2056"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "American Eagle Mine Methane Incineration Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR0841|CAR2056",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "American Eagle Mine Methane Incineration Project"
+    ],
+    "leaf_hash": "03ebd629ddf9372845874ac8fa401413169c82fdc54e5754cba9f48df468a6a8",
+    "proof": [
+      {
+        "sibling": "8cada4e55aac4957828f5bde165b568ba6f42cb3fd2a7ee97bb2aa6ab1c5cc96",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "36a9781d28abb88c61fd0f4117953ba2504d28c9480db7553a115544e0ef5926",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "717446d422b57340844c8ab62e430b1dd328801c2438792c0b8493f86ab23482",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "26d575cd26603bb243a393b4001b1f92ad40be432a93cd24c7001c631f1e2abf",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 42,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "ACR1009",
+      "CAR2111"
+    ],
+    "registries": [
+      "ACR",
+      "CAR"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Green Valley Abandoned Mine Methane Recovery Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "ACR1009|CAR2111",
+      "ACR|CAR",
+      "United States",
+      "",
+      0,
+      "Green Valley Abandoned Mine Methane Recovery Project"
+    ],
+    "leaf_hash": "259aa1613832bb9f37664902948d8a2a64924accf264701e5a781fb12195ad7d",
+    "proof": [
+      {
+        "sibling": "f8257f5357aee1881a0aad1a27477bfae9ee4ef672930169b5f1d5ab5b036319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "140e22220c87598f81061fcc80f117b897ee34511f80a96b1994df01ed7eeebc",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "717446d422b57340844c8ab62e430b1dd328801c2438792c0b8493f86ab23482",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "26d575cd26603bb243a393b4001b1f92ad40be432a93cd24c7001c631f1e2abf",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 43,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "CAR1315",
+      "VCS642"
+    ],
+    "registries": [
+      "CAR",
+      "VCS"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "West Star North Dairy",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "CAR1315|VCS642",
+      "CAR|VCS",
+      "United States",
+      "",
+      0,
+      "West Star North Dairy"
+    ],
+    "leaf_hash": "f8257f5357aee1881a0aad1a27477bfae9ee4ef672930169b5f1d5ab5b036319",
+    "proof": [
+      {
+        "sibling": "259aa1613832bb9f37664902948d8a2a64924accf264701e5a781fb12195ad7d",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "140e22220c87598f81061fcc80f117b897ee34511f80a96b1994df01ed7eeebc",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "717446d422b57340844c8ab62e430b1dd328801c2438792c0b8493f86ab23482",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "26d575cd26603bb243a393b4001b1f92ad40be432a93cd24c7001c631f1e2abf",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 44,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "CAR2047",
+      "VCSOPR10"
+    ],
+    "registries": [
+      "CAR",
+      "VCS"
+    ],
+    "country": "United States",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Blue Source - Alford Improved Forest Management Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "CAR2047|VCSOPR10",
+      "CAR|VCS",
+      "United States",
+      "",
+      0,
+      "Blue Source - Alford Improved Forest Management Project"
+    ],
+    "leaf_hash": "815036e89bf08154cd639f2191bd7fc8dd60526259eb236c86870c977a490b41",
+    "proof": [
+      {
+        "sibling": "87bcba7c2f410dca52271bce0be392529a39a7732bc2cfaecec89d3b00373b14",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "d64d7cf301d02607ee4b811a51306a4739659151109a2bf8f3c8a2b874d92728",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "ba5177895fbc1a0da2bdb13c36dbcc7795090a2da31b4dd5edc2cb61e7bfacef",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "26d575cd26603bb243a393b4001b1f92ad40be432a93cd24c7001c631f1e2abf",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 45,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS11728",
+      "VCS1076"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "Brazil",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Manaus Landfill Gas Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS11728|VCS1076",
+      "GOLD|VCS",
+      "Brazil",
+      "",
+      0,
+      "Manaus Landfill Gas Project"
+    ],
+    "leaf_hash": "87bcba7c2f410dca52271bce0be392529a39a7732bc2cfaecec89d3b00373b14",
+    "proof": [
+      {
+        "sibling": "815036e89bf08154cd639f2191bd7fc8dd60526259eb236c86870c977a490b41",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "d64d7cf301d02607ee4b811a51306a4739659151109a2bf8f3c8a2b874d92728",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "ba5177895fbc1a0da2bdb13c36dbcc7795090a2da31b4dd5edc2cb61e7bfacef",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "26d575cd26603bb243a393b4001b1f92ad40be432a93cd24c7001c631f1e2abf",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 46,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS1347",
+      "VCS880"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "Viet Nam",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Dak Pone Hydropower Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS1347|VCS880",
+      "GOLD|VCS",
+      "Viet Nam",
+      "",
+      0,
+      "Dak Pone Hydropower Project"
+    ],
+    "leaf_hash": "6a54431324979315a3d59f8120b287737cc2a865f3b5fb43a3407d5e4a664ab3",
+    "proof": [
+      {
+        "sibling": "8420946639b75da6902b12a5188170e8d8e5be26db9abcccad602a97398cec53",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "46382c40805bc3c77008cf48fead54601b7788a5bed643ada8bd9937b71ad0c9",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "ba5177895fbc1a0da2bdb13c36dbcc7795090a2da31b4dd5edc2cb61e7bfacef",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "26d575cd26603bb243a393b4001b1f92ad40be432a93cd24c7001c631f1e2abf",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 47,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS1370",
+      "VCS785"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "Thailand",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Bangkok Kamphaeng Saen West: Landfill Gas to Electricity Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS1370|VCS785",
+      "GOLD|VCS",
+      "Thailand",
+      "",
+      0,
+      "Bangkok Kamphaeng Saen West: Landfill Gas to Electricity Project"
+    ],
+    "leaf_hash": "8420946639b75da6902b12a5188170e8d8e5be26db9abcccad602a97398cec53",
+    "proof": [
+      {
+        "sibling": "6a54431324979315a3d59f8120b287737cc2a865f3b5fb43a3407d5e4a664ab3",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "46382c40805bc3c77008cf48fead54601b7788a5bed643ada8bd9937b71ad0c9",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "ba5177895fbc1a0da2bdb13c36dbcc7795090a2da31b4dd5edc2cb61e7bfacef",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "26d575cd26603bb243a393b4001b1f92ad40be432a93cd24c7001c631f1e2abf",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "a1d81d9c9d31abc1d8659f1694a11e596271a835df93c7f9ae23d8d3a5aee319",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 48,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS3016",
+      "VCS811"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "Viet Nam",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Nam Ngan Hydropower project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS3016|VCS811",
+      "GOLD|VCS",
+      "Viet Nam",
+      "",
+      0,
+      "Nam Ngan Hydropower project"
+    ],
+    "leaf_hash": "f8751f30ae24c347404c73f4e721475187fd406d6351f6901f1882e8a8aaa202",
+    "proof": [
+      {
+        "sibling": "cbc573888e8e54dbdc738906616588138c6b4e3c142675bec8cb5227152f26b1",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "abb5c6558a05249be7e707ed7126e357454e95660fa1a7b45054bacd1a2773cc",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "6612ab08723e93abcb53b6dffc8cdd17237fd47fb91edbc3d06f8d601eea3053",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "0da77de281d391801253ec4774fc9a7461fb6de2bf5b574d5a314ff4a08a09fe",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 49,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS3664",
+      "VCS520"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Enercon Wind Farm (Hindustan) Ltd in Karnataka",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS3664|VCS520",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "Enercon Wind Farm (Hindustan) Ltd in Karnataka"
+    ],
+    "leaf_hash": "cbc573888e8e54dbdc738906616588138c6b4e3c142675bec8cb5227152f26b1",
+    "proof": [
+      {
+        "sibling": "f8751f30ae24c347404c73f4e721475187fd406d6351f6901f1882e8a8aaa202",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "abb5c6558a05249be7e707ed7126e357454e95660fa1a7b45054bacd1a2773cc",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "6612ab08723e93abcb53b6dffc8cdd17237fd47fb91edbc3d06f8d601eea3053",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "0da77de281d391801253ec4774fc9a7461fb6de2bf5b574d5a314ff4a08a09fe",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 50,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS4426",
+      "VCS1097"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Wind Energy Project in Gujarat",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS4426|VCS1097",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "Wind Energy Project in Gujarat"
+    ],
+    "leaf_hash": "8a1510a76a56f9fcf23b0733a84170badb39238c8f9e9102afc7a4ff6b8b61c2",
+    "proof": [
+      {
+        "sibling": "3595f9c03062c04cb1cfac28fd6bb3fa52b3646898de7e58fe221f8bffceeaa0",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "8fee6ff5d28423d3f30b5613217b0d746ecdb1d9fe9526879384aaba7b5d6cf3",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "6612ab08723e93abcb53b6dffc8cdd17237fd47fb91edbc3d06f8d601eea3053",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "0da77de281d391801253ec4774fc9a7461fb6de2bf5b574d5a314ff4a08a09fe",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 51,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS4603",
+      "VCS1073"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Vaayu India Wind Power Project in Andhra Pradesh",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS4603|VCS1073",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "Vaayu India Wind Power Project in Andhra Pradesh"
+    ],
+    "leaf_hash": "3595f9c03062c04cb1cfac28fd6bb3fa52b3646898de7e58fe221f8bffceeaa0",
+    "proof": [
+      {
+        "sibling": "8a1510a76a56f9fcf23b0733a84170badb39238c8f9e9102afc7a4ff6b8b61c2",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "8fee6ff5d28423d3f30b5613217b0d746ecdb1d9fe9526879384aaba7b5d6cf3",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "6612ab08723e93abcb53b6dffc8cdd17237fd47fb91edbc3d06f8d601eea3053",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "0da77de281d391801253ec4774fc9a7461fb6de2bf5b574d5a314ff4a08a09fe",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 52,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS5007",
+      "VCS1096"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Renewable energy wind power project in Rajasthan",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS5007|VCS1096",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "Renewable energy wind power project in Rajasthan"
+    ],
+    "leaf_hash": "919884ed9ba783cd0056ad7b595a24a01fa7dfb926a630bf7584b242c9fbb6b0",
+    "proof": [
+      {
+        "sibling": "8805e8ed64f93d00beb53c11400acb8214630f6c878f40b2f657dba1e6d57f4c",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "e713ba8d6e2a958ea1663af3cd32a26ba5c1a43f5cbd67b08d309f6daf4976be",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "d1f75f9df55602b4eed411250a49dce84e27308c67104eb7ea32674e4a9081a9",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "0da77de281d391801253ec4774fc9a7461fb6de2bf5b574d5a314ff4a08a09fe",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 53,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS5013",
+      "VCS1120"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Vaayu India Wind Power Project in Jaisalmer Rajasthan",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS5013|VCS1120",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "Vaayu India Wind Power Project in Jaisalmer Rajasthan"
+    ],
+    "leaf_hash": "8805e8ed64f93d00beb53c11400acb8214630f6c878f40b2f657dba1e6d57f4c",
+    "proof": [
+      {
+        "sibling": "919884ed9ba783cd0056ad7b595a24a01fa7dfb926a630bf7584b242c9fbb6b0",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "e713ba8d6e2a958ea1663af3cd32a26ba5c1a43f5cbd67b08d309f6daf4976be",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "d1f75f9df55602b4eed411250a49dce84e27308c67104eb7ea32674e4a9081a9",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "0da77de281d391801253ec4774fc9a7461fb6de2bf5b574d5a314ff4a08a09fe",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 54,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS5377",
+      "VCS1578"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "15 MW Solar Photovoltaic Power Project at Gujarat",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS5377|VCS1578",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "15 MW Solar Photovoltaic Power Project at Gujarat"
+    ],
+    "leaf_hash": "ef23776b2272949f6388ae9ac54f9969c4e1e49dd40c89332ec82f9662ff51bb",
+    "proof": [
+      {
+        "sibling": "fbe97e1a282c3767847084fca692b21b1567a9afe2dcdc871b37c9deeb5f0ff4",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "2785b4c20c8810cce169593f994a7abc0e8ee979da0055041c2064058bb97dc3",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "d1f75f9df55602b4eed411250a49dce84e27308c67104eb7ea32674e4a9081a9",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "0da77de281d391801253ec4774fc9a7461fb6de2bf5b574d5a314ff4a08a09fe",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 55,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS5617",
+      "VCS1155"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "14.70 MW Wind Power Project at Jath Maharashtra",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS5617|VCS1155",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "14.70 MW Wind Power Project at Jath Maharashtra"
+    ],
+    "leaf_hash": "fbe97e1a282c3767847084fca692b21b1567a9afe2dcdc871b37c9deeb5f0ff4",
+    "proof": [
+      {
+        "sibling": "ef23776b2272949f6388ae9ac54f9969c4e1e49dd40c89332ec82f9662ff51bb",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "2785b4c20c8810cce169593f994a7abc0e8ee979da0055041c2064058bb97dc3",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "d1f75f9df55602b4eed411250a49dce84e27308c67104eb7ea32674e4a9081a9",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "0da77de281d391801253ec4774fc9a7461fb6de2bf5b574d5a314ff4a08a09fe",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 56,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS5624",
+      "VCS1159"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "14.7 MW Bundled Wind Power Project in the state of Maharashtra and Rajasthan India",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS5624|VCS1159",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "14.7 MW Bundled Wind Power Project in the state of Maharashtra and Rajasthan India"
+    ],
+    "leaf_hash": "496cd0b68d88d31b544e444a2caf24cf7d39ed95af1c798bc451c3eaab0162b0",
+    "proof": [
+      {
+        "sibling": "f9f9c5b05860c42e57fc43b0e440619114ecbc136f00b3757fd585a0f68785fe",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "3890e3a76ad592d6dc39790c0bc79292e39854e52496444856df7481824cb457",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "56e430ac781205d98eab19164dfa48b0fdb7118a817811a585696aeaf279a3c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "e9506c277aad6528436c845a15ca627081de3a50c0182361dd75f452b67b2847",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 57,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS6004",
+      "VCS1102"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Wind Power Project in Tinwari Rajasthan",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS6004|VCS1102",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "Wind Power Project in Tinwari Rajasthan"
+    ],
+    "leaf_hash": "f9f9c5b05860c42e57fc43b0e440619114ecbc136f00b3757fd585a0f68785fe",
+    "proof": [
+      {
+        "sibling": "496cd0b68d88d31b544e444a2caf24cf7d39ed95af1c798bc451c3eaab0162b0",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "3890e3a76ad592d6dc39790c0bc79292e39854e52496444856df7481824cb457",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "56e430ac781205d98eab19164dfa48b0fdb7118a817811a585696aeaf279a3c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "e9506c277aad6528436c845a15ca627081de3a50c0182361dd75f452b67b2847",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 58,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS6279",
+      "VCS1819"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "19.2 MWp Solar Power Project by HZL at Debari and Dariba Rajasthan",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS6279|VCS1819",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "19.2 MWp Solar Power Project by HZL at Debari and Dariba Rajasthan"
+    ],
+    "leaf_hash": "f8894eb1bd23cda253b12a85f80fa223aeff0f047c510fca97b153427ff2a25f",
+    "proof": [
+      {
+        "sibling": "344d5c662a4b03899977cd4019d6f42d4e7e0110ff2cb1e0b76837e1c3459c98",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "eb561026bcf86b657b8c923ac5bb8ace9abe99a9c5541f77dd2065860fc39ba0",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "56e430ac781205d98eab19164dfa48b0fdb7118a817811a585696aeaf279a3c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "e9506c277aad6528436c845a15ca627081de3a50c0182361dd75f452b67b2847",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 59,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS6747",
+      "VCS1134"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "52.50 MW Wind energy farm at Mokla Rajasthan by HZL",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS6747|VCS1134",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "52.50 MW Wind energy farm at Mokla Rajasthan by HZL"
+    ],
+    "leaf_hash": "344d5c662a4b03899977cd4019d6f42d4e7e0110ff2cb1e0b76837e1c3459c98",
+    "proof": [
+      {
+        "sibling": "f8894eb1bd23cda253b12a85f80fa223aeff0f047c510fca97b153427ff2a25f",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "eb561026bcf86b657b8c923ac5bb8ace9abe99a9c5541f77dd2065860fc39ba0",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "56e430ac781205d98eab19164dfa48b0fdb7118a817811a585696aeaf279a3c2",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "e9506c277aad6528436c845a15ca627081de3a50c0182361dd75f452b67b2847",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 60,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS6748",
+      "VCS1136"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "25.5 MW Wind Energy Farm at Nandurbar Maharashtra by HZL",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS6748|VCS1136",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "25.5 MW Wind Energy Farm at Nandurbar Maharashtra by HZL"
+    ],
+    "leaf_hash": "273be9e90b00f1cdfeb457f31c8e4890c189b4f75b203b20a406d2f1c9072b1c",
+    "proof": [
+      {
+        "sibling": "55ca3e241c7d98358249e30084ffd89194297249e15c85168df7308e75f42da0",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "ca38a3d4443e782b36962558e947f376d629bb6061085ce9e6bbe67e965fc16c",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "fc78d700c87e6305dc98bd83db2dc0fee489c2d04ed51cd9f3e83b5714461dd4",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "e9506c277aad6528436c845a15ca627081de3a50c0182361dd75f452b67b2847",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 61,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS6753",
+      "VCS1839"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "China",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "CECIC HKC Danjinghe Wind Farm Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS6753|VCS1839",
+      "GOLD|VCS",
+      "China",
+      "",
+      0,
+      "CECIC HKC Danjinghe Wind Farm Project"
+    ],
+    "leaf_hash": "55ca3e241c7d98358249e30084ffd89194297249e15c85168df7308e75f42da0",
+    "proof": [
+      {
+        "sibling": "273be9e90b00f1cdfeb457f31c8e4890c189b4f75b203b20a406d2f1c9072b1c",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "ca38a3d4443e782b36962558e947f376d629bb6061085ce9e6bbe67e965fc16c",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "fc78d700c87e6305dc98bd83db2dc0fee489c2d04ed51cd9f3e83b5714461dd4",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "e9506c277aad6528436c845a15ca627081de3a50c0182361dd75f452b67b2847",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 62,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS6853",
+      "VCS344"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Wind power project by HZL in Gujarat.",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS6853|VCS344",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "Wind power project by HZL in Gujarat."
+    ],
+    "leaf_hash": "9208836f43eb2ccf29770d3738fb7d1a1ff0900aceb09437e797fb4a7167f888",
+    "proof": [
+      {
+        "sibling": "426c79d9659748d1f81e2d4eeaa4f6543ea2aa997f6dce9030b3d0ca4ec9f057",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "21500de69285256fd991fee420fd2d19fc5098faa91f58d8a79afcc4e3fdf2a4",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "fc78d700c87e6305dc98bd83db2dc0fee489c2d04ed51cd9f3e83b5714461dd4",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "e9506c277aad6528436c845a15ca627081de3a50c0182361dd75f452b67b2847",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 63,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS6854",
+      "VCS345"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Wind power project by HZL in Karnataka",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS6854|VCS345",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "Wind power project by HZL in Karnataka"
+    ],
+    "leaf_hash": "426c79d9659748d1f81e2d4eeaa4f6543ea2aa997f6dce9030b3d0ca4ec9f057",
+    "proof": [
+      {
+        "sibling": "9208836f43eb2ccf29770d3738fb7d1a1ff0900aceb09437e797fb4a7167f888",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "21500de69285256fd991fee420fd2d19fc5098faa91f58d8a79afcc4e3fdf2a4",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "fc78d700c87e6305dc98bd83db2dc0fee489c2d04ed51cd9f3e83b5714461dd4",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "e9506c277aad6528436c845a15ca627081de3a50c0182361dd75f452b67b2847",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "adec37b8fbf4bd1658e8231a86b7f378463b11c529ea703c6a9a4a72629d4987",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "b533535e341dc1bb350ac1922538b58c66972b0d47e4465b4215851007982955",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "1d2e2c1cb71beb213fb71f59b443e1bcdc5e3f25f8ef28c98ed7bae7dde380a0",
+        "sibling_is_left": false
+      }
+    ]
+  },
+  {
+    "index": 64,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS6855",
+      "VCS1135"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "27.3 MW Wind energy farm at Mokla Rajasthan by HZL",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS6855|VCS1135",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "27.3 MW Wind energy farm at Mokla Rajasthan by HZL"
+    ],
+    "leaf_hash": "b00b2e9b38b956ebcb6f084575f51388a766e2a910e36aacb802a73bf8612ecf",
+    "proof": [
+      {
+        "sibling": "39ed8d7f630fb79a0556c9859199bdbdbf83a08b0aa4a3877e7ef32d0b61761a",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "4f7269dead09a08981e8d6303fc01d02e9e81758ad2608279d3ecc0905c462d8",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "76bc896b8f1435c1d3c160d429dbaf0e7c8d98d220981d723c6f6b449737b17b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "baa6f4c18d2fa205cd64c91b41f0fe550798b98908f371562454bc18b86398f7",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "092598674724b63f70eb1cb9c6b837fa09bf2b022f9ec0dd76097ee12ba9dc79",
+        "sibling_is_left": true
+      }
+    ]
+  },
+  {
+    "index": 65,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS6856",
+      "VCS1138"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "9 MW Wind Energy Farm at Jodhpur Rajasthan by HZL",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS6856|VCS1138",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "9 MW Wind Energy Farm at Jodhpur Rajasthan by HZL"
+    ],
+    "leaf_hash": "39ed8d7f630fb79a0556c9859199bdbdbf83a08b0aa4a3877e7ef32d0b61761a",
+    "proof": [
+      {
+        "sibling": "b00b2e9b38b956ebcb6f084575f51388a766e2a910e36aacb802a73bf8612ecf",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "4f7269dead09a08981e8d6303fc01d02e9e81758ad2608279d3ecc0905c462d8",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "76bc896b8f1435c1d3c160d429dbaf0e7c8d98d220981d723c6f6b449737b17b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "baa6f4c18d2fa205cd64c91b41f0fe550798b98908f371562454bc18b86398f7",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "092598674724b63f70eb1cb9c6b837fa09bf2b022f9ec0dd76097ee12ba9dc79",
+        "sibling_is_left": true
+      }
+    ]
+  },
+  {
+    "index": 66,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS6857",
+      "VCS1139"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "15 MW Wind energy farm at Gopalpura Karnataka by HZL",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS6857|VCS1139",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "15 MW Wind energy farm at Gopalpura Karnataka by HZL"
+    ],
+    "leaf_hash": "ea58adb0187aa8a9d005c77c4b48c840fb23d0d94d93b58605d5d3f2446b2fba",
+    "proof": [
+      {
+        "sibling": "8cb89f308d649bc6ff8245c10e1d8663810cdac55bb2132b2c07d7a25cd31f3e",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "8bc6ce7a953684ebc5079633a2a0c827760298466b5bf58d5dad45a3d62aa9bb",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "76bc896b8f1435c1d3c160d429dbaf0e7c8d98d220981d723c6f6b449737b17b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "baa6f4c18d2fa205cd64c91b41f0fe550798b98908f371562454bc18b86398f7",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "092598674724b63f70eb1cb9c6b837fa09bf2b022f9ec0dd76097ee12ba9dc79",
+        "sibling_is_left": true
+      }
+    ]
+  },
+  {
+    "index": 67,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS6858",
+      "VCS1137"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "India",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "21 MW Wind energy farm at Palladam TamilNadu by HZL",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS6858|VCS1137",
+      "GOLD|VCS",
+      "India",
+      "",
+      0,
+      "21 MW Wind energy farm at Palladam TamilNadu by HZL"
+    ],
+    "leaf_hash": "8cb89f308d649bc6ff8245c10e1d8663810cdac55bb2132b2c07d7a25cd31f3e",
+    "proof": [
+      {
+        "sibling": "ea58adb0187aa8a9d005c77c4b48c840fb23d0d94d93b58605d5d3f2446b2fba",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "8bc6ce7a953684ebc5079633a2a0c827760298466b5bf58d5dad45a3d62aa9bb",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "76bc896b8f1435c1d3c160d429dbaf0e7c8d98d220981d723c6f6b449737b17b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "baa6f4c18d2fa205cd64c91b41f0fe550798b98908f371562454bc18b86398f7",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "092598674724b63f70eb1cb9c6b837fa09bf2b022f9ec0dd76097ee12ba9dc79",
+        "sibling_is_left": true
+      }
+    ]
+  },
+  {
+    "index": 68,
+    "rule": "R2",
+    "severity": 0,
+    "subjects": [
+      "GS828",
+      "VCS831"
+    ],
+    "registries": [
+      "GOLD",
+      "VCS"
+    ],
+    "country": "Nicaragua",
+    "vintages": [],
+    "credits": 0.0,
+    "credits_milli": 0,
+    "note": "Amayo Phase II Wind Power Project",
+    "is_finding": false,
+    "leaf_fields": [
+      "R2",
+      0,
+      "GS828|VCS831",
+      "GOLD|VCS",
+      "Nicaragua",
+      "",
+      0,
+      "Amayo Phase II Wind Power Project"
+    ],
+    "leaf_hash": "244b096d933e59680d2d5bb743a347c79943dcfedeb4aadd12396c204bf5db3a",
+    "proof": [
+      {
+        "sibling": "2958be701adf063a52702acda5cbf1984ea3502d2efbf4b0248b2c4e1f2c6935",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "505ec6c1f6207c44ee8dbb99d7b1eba785cce65f58a6df37b5c82d1d4b230939",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "9d9ec7605723f72f2578aac66d5bf125b03ae727eebeb5b890f7b6477dff1155",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "baa6f4c18d2fa205cd64c91b41f0fe550798b98908f371562454bc18b86398f7",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "092598674724b63f70eb1cb9c6b837fa09bf2b022f9ec0dd76097ee12ba9dc79",
+        "sibling_is_left": true
+      }
+    ]
+  },
+  {
+    "index": 69,
+    "rule": "R3",
+    "severity": 2,
+    "subjects": [
+      "GS1083",
+      "GS1-1-VN-GS1083-4-2013-4665"
+    ],
+    "registries": [
+      "GOLD"
+    ],
+    "country": "",
+    "vintages": [
+      2013
+    ],
+    "credits": 10000.0,
+    "credits_milli": 10000000,
+    "note": "73918-78809 vs 78810-83917",
+    "is_finding": true,
+    "leaf_fields": [
+      "R3",
+      2,
+      "GS1083|GS1-1-VN-GS1083-4-2013-4665",
+      "GOLD",
+      "",
+      "2013",
+      10000000,
+      "73918-78809 vs 78810-83917"
+    ],
+    "leaf_hash": "2958be701adf063a52702acda5cbf1984ea3502d2efbf4b0248b2c4e1f2c6935",
+    "proof": [
+      {
+        "sibling": "244b096d933e59680d2d5bb743a347c79943dcfedeb4aadd12396c204bf5db3a",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "505ec6c1f6207c44ee8dbb99d7b1eba785cce65f58a6df37b5c82d1d4b230939",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "9d9ec7605723f72f2578aac66d5bf125b03ae727eebeb5b890f7b6477dff1155",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "baa6f4c18d2fa205cd64c91b41f0fe550798b98908f371562454bc18b86398f7",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "092598674724b63f70eb1cb9c6b837fa09bf2b022f9ec0dd76097ee12ba9dc79",
+        "sibling_is_left": true
+      }
+    ]
+  },
+  {
+    "index": 70,
+    "rule": "R4",
+    "severity": 0,
+    "subjects": [
+      "ACR0731",
+      "ACR-US-731-2026-3316"
+    ],
+    "registries": [
+      "ACR"
+    ],
+    "country": "",
+    "vintages": [
+      2026
+    ],
+    "credits": 74344.0,
+    "credits_milli": 74344000,
+    "note": "1-74344 vs 1-74344",
+    "is_finding": false,
+    "leaf_fields": [
+      "R4",
+      0,
+      "ACR0731|ACR-US-731-2026-3316",
+      "ACR",
+      "",
+      "2026",
+      74344000,
+      "1-74344 vs 1-74344"
+    ],
+    "leaf_hash": "12362106350e9268b3e24c8d5a36704a64ffcaf6aaab54ec2397fbe193d62c34",
+    "proof": [
+      {
+        "sibling": "20750948af5a611da93b4441bd5109c23796c97b82fd20574c62099d11cf52b6",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "4835ca146ade7d86d76a8361524250586f8c32c7913357ec9ae52ce1b1f6743f",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "9d9ec7605723f72f2578aac66d5bf125b03ae727eebeb5b890f7b6477dff1155",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "baa6f4c18d2fa205cd64c91b41f0fe550798b98908f371562454bc18b86398f7",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "092598674724b63f70eb1cb9c6b837fa09bf2b022f9ec0dd76097ee12ba9dc79",
+        "sibling_is_left": true
+      }
+    ]
+  },
+  {
+    "index": 71,
+    "rule": "R4",
+    "severity": 0,
+    "subjects": [
+      "ACR0972",
+      "ACR-US-972-2026-3382"
+    ],
+    "registries": [
+      "ACR"
+    ],
+    "country": "",
+    "vintages": [
+      2026
+    ],
+    "credits": 67766.0,
+    "credits_milli": 67766000,
+    "note": "1-67766 vs 1-67766",
+    "is_finding": false,
+    "leaf_fields": [
+      "R4",
+      0,
+      "ACR0972|ACR-US-972-2026-3382",
+      "ACR",
+      "",
+      "2026",
+      67766000,
+      "1-67766 vs 1-67766"
+    ],
+    "leaf_hash": "20750948af5a611da93b4441bd5109c23796c97b82fd20574c62099d11cf52b6",
+    "proof": [
+      {
+        "sibling": "12362106350e9268b3e24c8d5a36704a64ffcaf6aaab54ec2397fbe193d62c34",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "4835ca146ade7d86d76a8361524250586f8c32c7913357ec9ae52ce1b1f6743f",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "9d9ec7605723f72f2578aac66d5bf125b03ae727eebeb5b890f7b6477dff1155",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "baa6f4c18d2fa205cd64c91b41f0fe550798b98908f371562454bc18b86398f7",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "092598674724b63f70eb1cb9c6b837fa09bf2b022f9ec0dd76097ee12ba9dc79",
+        "sibling_is_left": true
+      }
+    ]
+  },
+  {
+    "index": 72,
+    "rule": "R4",
+    "severity": 0,
+    "subjects": [
+      "ACR1159",
+      "ACR-US-1159-2026-1"
+    ],
+    "registries": [
+      "ACR"
+    ],
+    "country": "",
+    "vintages": [
+      2026
+    ],
+    "credits": 71542.0,
+    "credits_milli": 71542000,
+    "note": "1-71542 vs 1-71542",
+    "is_finding": false,
+    "leaf_fields": [
+      "R4",
+      0,
+      "ACR1159|ACR-US-1159-2026-1",
+      "ACR",
+      "",
+      "2026",
+      71542000,
+      "1-71542 vs 1-71542"
+    ],
+    "leaf_hash": "09bdcde93af2a3bea9472133f982585468bd78302652d67bd1f32169f9431e6e",
+    "proof": [
+      {
+        "sibling": "d539efd4349ad6233b0329c4741cb04337ece2163d31092b749155bb15e7bafe",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "fba55f87bbe7d423665503ec886ce109daff26163137b9eb380bc7571a99969b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "cfe88e29a7aa3e7926aa255656076fcf4f63bea4c084fc6cb030c1ef9d34ff55",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "092598674724b63f70eb1cb9c6b837fa09bf2b022f9ec0dd76097ee12ba9dc79",
+        "sibling_is_left": true
+      }
+    ]
+  },
+  {
+    "index": 73,
+    "rule": "R4",
+    "severity": 0,
+    "subjects": [
+      "GS440",
+      "GS1-1-TR-GS440-21-2012-1333"
+    ],
+    "registries": [
+      "GOLD"
+    ],
+    "country": "",
+    "vintages": [
+      2012
+    ],
+    "credits": 602.0,
+    "credits_milli": 602000,
+    "note": "336388-336989 vs 336388-336989",
+    "is_finding": false,
+    "leaf_fields": [
+      "R4",
+      0,
+      "GS440|GS1-1-TR-GS440-21-2012-1333",
+      "GOLD",
+      "",
+      "2012",
+      602000,
+      "336388-336989 vs 336388-336989"
+    ],
+    "leaf_hash": "d539efd4349ad6233b0329c4741cb04337ece2163d31092b749155bb15e7bafe",
+    "proof": [
+      {
+        "sibling": "09bdcde93af2a3bea9472133f982585468bd78302652d67bd1f32169f9431e6e",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "fba55f87bbe7d423665503ec886ce109daff26163137b9eb380bc7571a99969b",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "cfe88e29a7aa3e7926aa255656076fcf4f63bea4c084fc6cb030c1ef9d34ff55",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "092598674724b63f70eb1cb9c6b837fa09bf2b022f9ec0dd76097ee12ba9dc79",
+        "sibling_is_left": true
+      }
+    ]
+  },
+  {
+    "index": 74,
+    "rule": "R4",
+    "severity": 0,
+    "subjects": [
+      "GS503",
+      "GS1-1-TR-GS503-12-2013-4206"
+    ],
+    "registries": [
+      "GOLD"
+    ],
+    "country": "",
+    "vintages": [
+      2013
+    ],
+    "credits": 80.0,
+    "credits_milli": 80000,
+    "note": "1039-1118 vs 1039-1118",
+    "is_finding": false,
+    "leaf_fields": [
+      "R4",
+      0,
+      "GS503|GS1-1-TR-GS503-12-2013-4206",
+      "GOLD",
+      "",
+      "2013",
+      80000,
+      "1039-1118 vs 1039-1118"
+    ],
+    "leaf_hash": "3a5cb27351b8bc82f0def2ce12fc21f1d25bc2e071cadafec4d308f4ee117695",
+    "proof": [
+      {
+        "sibling": "a53c0855d483f342a78992b264bfe35bd4d33eaf2ad97db03cb72d0a74494c2e",
+        "sibling_is_left": false
+      },
+      {
+        "sibling": "8ea1ef43845fb1e6a4d855b1b496d6868e5b16266f767af43847e485702e6b75",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "cfe88e29a7aa3e7926aa255656076fcf4f63bea4c084fc6cb030c1ef9d34ff55",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "092598674724b63f70eb1cb9c6b837fa09bf2b022f9ec0dd76097ee12ba9dc79",
+        "sibling_is_left": true
+      }
+    ]
+  },
+  {
+    "index": 75,
+    "rule": "R4",
+    "severity": 0,
+    "subjects": [
+      "GS816",
+      "GS1-1-AW-GS816-12-2012-4905"
+    ],
+    "registries": [
+      "GOLD"
+    ],
+    "country": "",
+    "vintages": [
+      2012
+    ],
+    "credits": 8245.0,
+    "credits_milli": 8245000,
+    "note": "92172-100416 vs 92172-100416",
+    "is_finding": false,
+    "leaf_fields": [
+      "R4",
+      0,
+      "GS816|GS1-1-AW-GS816-12-2012-4905",
+      "GOLD",
+      "",
+      "2012",
+      8245000,
+      "92172-100416 vs 92172-100416"
+    ],
+    "leaf_hash": "a53c0855d483f342a78992b264bfe35bd4d33eaf2ad97db03cb72d0a74494c2e",
+    "proof": [
+      {
+        "sibling": "3a5cb27351b8bc82f0def2ce12fc21f1d25bc2e071cadafec4d308f4ee117695",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "8ea1ef43845fb1e6a4d855b1b496d6868e5b16266f767af43847e485702e6b75",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "cfe88e29a7aa3e7926aa255656076fcf4f63bea4c084fc6cb030c1ef9d34ff55",
+        "sibling_is_left": true
+      },
+      {
+        "sibling": "092598674724b63f70eb1cb9c6b837fa09bf2b022f9ec0dd76097ee12ba9dc79",
+        "sibling_is_left": true
+      }
+    ]
+  }
+]

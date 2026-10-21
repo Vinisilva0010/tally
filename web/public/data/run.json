@@ -1,0 +1,44 @@
+{
+  "dataset_version": "v2026-08",
+  "aggregate_sha256": "cda76b917a574713d040ea27a5098cd77f14f33bc87aa9dfafaf87a3f329cd88",
+  "registry_sha256": "16250bcd0cf1b674b143b3360bb429deb884abbe8786f6ed14c25d01c84e2814",
+  "merkle_root": "7f1c1fdf1c66d1526a83b9eae1d8794588aab4713cbc1fc20536611ac8745bd1",
+  "cluster": "devnet",
+  "program_id": "2DNtSVqoQPgrZz17C6zTEKt3WUqgVJo1vxxkYLCBM29e",
+  "run_account": "FBG6tQ5BVzK4jg3VEiHNSawZDvmdsLJG712tuWEDcuJH",
+  "project_count": 11856,
+  "credit_event_count": 541290,
+  "finding_count": 76,
+  "credits_evidenced": 361903.0,
+  "totals": {
+    "R1": {
+      "count": 13,
+      "credits": 351903.0
+    },
+    "R2": {
+      "count": 56,
+      "credits": 0.0
+    },
+    "R3": {
+      "count": 1,
+      "credits": 10000.0
+    },
+    "R4": {
+      "count": 6,
+      "credits": 222579.0
+    }
+  },
+  "queue_count": 8,
+  "linkage": {
+    "projects": 6058,
+    "countries": 117,
+    "compared": 977904,
+    "name_gate_passed": 162,
+    "accepted": 85,
+    "rejected_type": 2,
+    "rejected_state": 4,
+    "rejected_marker": 63,
+    "rejected_distinctive": 8,
+    "place_names": 4851
+  }
+}
