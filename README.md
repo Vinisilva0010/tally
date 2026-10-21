@@ -68,33 +68,51 @@ in TypeScript: if it disagreed with the Python pipeline, it would fail
 visibly rather than quietly agree with itself.
 
 ## Architecture
-Berkeley Carbon Trading Project — public, CC BY 4.0
-Voluntary Registry Offsets Database v2026-08 (16 MB, 11,856 projects)
-VROD registry files v2026-08 (64 MB, 31 sheets)
-│ download, SHA-256 both files
-▼
-┌──────────────────────────────────────────────────────┐
-│ PIPELINE (Python, runs locally, no API keys) │
-│ │
-│ ingest.py aggregate workbook → SQLite │
-│ raw_ingest.py 541,290 credit events, serial ranges │
-│ serials.py four registry serial formats │
-│ features.py pairwise evidence, corpus vocabulary │
-│ link.py cross-registry record linkage │
-│ detect.py vintage overlap between registries │
-│ serial_overlap.py same credit disposed of twice │
-│ merkle.py domain-separated tree │
-│ audit.py findings → canonical leaves → root │
-│ export.py static JSON for the site │
-└───────────┬──────────────────────────┬───────────────┘
-│ root + checksums │ JSON + proofs
-▼ ▼
-┌───────────────────────┐ ┌──────────────────────────┐
-│ SOLANA devnet │ │ WEB (Next.js, static) │
-│ AuditRun (sealed) │◄──┤ recomputes leaf + proof │
-│ Finding ×76 │ │ reads root from chain │
-│ append-only │ │ no backend, no keys │
-└───────────────────────┘ └──────────────────────────┘
+
+```mermaid
+flowchart TB
+    subgraph SRC["Public source - Berkeley Carbon Trading Project, CC BY 4.0"]
+        A1["Voluntary Registry Offsets Database v2026-08<br/>16 MB - 11,856 projects"]
+        A2["VROD registry files v2026-08<br/>64 MB - 31 sheets"]
+    end
+
+    subgraph PIPE["Pipeline - Python, runs locally, no API keys"]
+        B1["ingest.py<br/>aggregate workbook to SQLite"]
+        B2["raw_ingest.py<br/>541,290 credit events"]
+        B3["serials.py<br/>four registry serial formats"]
+        B4["features.py + link.py<br/>cross-registry record linkage"]
+        B5["detect.py + serial_overlap.py<br/>vintage and serial overlap"]
+        B6["merkle.py + audit.py<br/>canonical leaves to root"]
+        B7["export.py<br/>static JSON and proofs"]
+    end
+
+    subgraph CHAIN["Solana devnet"]
+        C1["AuditRun - sealed<br/>checksums + Merkle root"]
+        C2["Finding x76<br/>append-only"]
+    end
+
+    subgraph WEB["Web - Next.js, static export"]
+        D1["Reads root from chain"]
+        D2["Recomputes leaf and proof<br/>in the browser"]
+    end
+
+    A1 --> B1
+    A2 --> B2
+    B1 --> B4
+    B2 --> B3 --> B5
+    B4 --> B5 --> B6
+    B6 --> B7
+    B6 -->|"root + input checksums"| C1
+    C1 --> C2
+    B7 -->|"JSON + Merkle proofs"| D2
+    C1 -->|"account read over RPC"| D1
+    D1 --- D2
+```
+
+Both input checksums are written to the chain **before** the result, so
+the attestation commits to the inputs as well as the output. The browser
+reads the root from Solana rather than from this project's own JSON: a
+page that checked itself would prove nothing.
 
 ## How the detection works
 
