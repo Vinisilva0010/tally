@@ -8,7 +8,7 @@ Attestation: [`FBG6tQ5BVzK4jg3VEiHNSawZDvmdsLJG712tuWEDcuJH`](https://explorer.s
 (Solana devnet, sealed)
 
 ---
-
+https://www.youtube.com/watch?v=Eb5kjpv5Y3I
 ## The problem
 
 A carbon credit represents one tonne of CO2 that was not emitted, or was
