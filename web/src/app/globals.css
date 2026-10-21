@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+/**
+ * Light, plain, high contrast, always. No dark-mode switch: this is a
+ * document people read carefully and check numbers in, and the colour
+ * scheme should not change under them depending on their system.
+ */
+:root {
+  --background: #ffffff;
+  --surface: #f6f6f4;
+  --border: #d4d4cf;
+  --foreground: #121212;
+  --muted: #3a3a3a;
+  --accent: #1d4ed8;
+  --warn: #9a3412;
+  --ok: #14532d;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-border: var(--border);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-warn: var(--warn);
+  --color-ok: var(--ok);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  font-weight: 500;
+}
+
+h1, h2, h3 {
+  font-weight: 800;
+  letter-spacing: -0.015em;
+  color: var(--foreground);
+}
+
+a {
+  color: var(--accent);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+code, .mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.92em;
+}
+
+table { border-collapse: collapse; }
+th {
+  text-align: left;
+  font-weight: 800;
+  border-bottom: 2px solid var(--foreground);
+  padding: 0.6rem 0.75rem;
+}
+td {
+  border-bottom: 1px solid var(--border);
+  padding: 0.6rem 0.75rem;
+}
